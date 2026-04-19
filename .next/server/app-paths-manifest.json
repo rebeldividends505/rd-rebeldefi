@@ -12,6 +12,7 @@
   "/sophisticated-investor-questionnaire/page": "app/sophisticated-investor-questionnaire/page.js",
   "/terms-of-service/page": "app/terms-of-service/page.js",
   "/thank-you/page": "app/thank-you/page.js",
+  "/thanks-for-signing-up/page": "app/thanks-for-signing-up/page.js",
   "/updates/page": "app/updates/page.js",
   "/welcome/page": "app/welcome/page.js"
 }

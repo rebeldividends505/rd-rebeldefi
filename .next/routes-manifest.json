@@ -114,6 +114,12 @@
       "namedRegex": "^/thank\\-you(?:/)?$"
     },
     {
+      "page": "/thanks-for-signing-up",
+      "regex": "^/thanks\\-for\\-signing\\-up(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/thanks\\-for\\-signing\\-up(?:/)?$"
+    },
+    {
       "page": "/updates",
       "regex": "^/updates(?:/)?$",
       "routeKeys": {},
