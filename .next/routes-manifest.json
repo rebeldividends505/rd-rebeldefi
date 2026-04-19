@@ -66,6 +66,12 @@
       "namedRegex": "^/contact(?:/)?$"
     },
     {
+      "page": "/contact-us",
+      "regex": "^/contact\\-us(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact\\-us(?:/)?$"
+    },
+    {
       "page": "/daily",
       "regex": "^/daily(?:/)?$",
       "routeKeys": {},
@@ -88,6 +94,12 @@
       "regex": "^/learn\\-more(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/learn\\-more(?:/)?$"
+    },
+    {
+      "page": "/learnmore",
+      "regex": "^/learnmore(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/learnmore(?:/)?$"
     },
     {
       "page": "/privacy-policy",
@@ -130,6 +142,12 @@
       "regex": "^/welcome(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/welcome(?:/)?$"
+    },
+    {
+      "page": "/welcome-to-rebel-defi",
+      "regex": "^/welcome\\-to\\-rebel\\-defi(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/welcome\\-to\\-rebel\\-defi(?:/)?$"
     }
   ],
   "dataRoutes": [],

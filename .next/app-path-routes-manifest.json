@@ -2,11 +2,13 @@
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
   "/about/page": "/about",
+  "/contact-us/page": "/contact-us",
   "/contact/page": "/contact",
   "/daily/page": "/daily",
   "/disclaimer/page": "/disclaimer",
   "/investor-questionnaire/page": "/investor-questionnaire",
   "/learn-more/page": "/learn-more",
+  "/learnmore/page": "/learnmore",
   "/page": "/",
   "/privacy-policy/page": "/privacy-policy",
   "/sophisticated-investor-questionnaire/page": "/sophisticated-investor-questionnaire",
@@ -14,5 +16,6 @@
   "/thank-you/page": "/thank-you",
   "/thanks-for-signing-up/page": "/thanks-for-signing-up",
   "/updates/page": "/updates",
+  "/welcome-to-rebel-defi/page": "/welcome-to-rebel-defi",
   "/welcome/page": "/welcome"
 }
