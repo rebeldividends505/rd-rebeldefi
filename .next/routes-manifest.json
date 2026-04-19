@@ -78,6 +78,12 @@
       "namedRegex": "^/disclaimer(?:/)?$"
     },
     {
+      "page": "/investor-questionnaire",
+      "regex": "^/investor\\-questionnaire(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/investor\\-questionnaire(?:/)?$"
+    },
+    {
       "page": "/learn-more",
       "regex": "^/learn\\-more(?:/)?$",
       "routeKeys": {},
@@ -88,6 +94,12 @@
       "regex": "^/privacy\\-policy(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/privacy\\-policy(?:/)?$"
+    },
+    {
+      "page": "/sophisticated-investor-questionnaire",
+      "regex": "^/sophisticated\\-investor\\-questionnaire(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/sophisticated\\-investor\\-questionnaire(?:/)?$"
     },
     {
       "page": "/terms-of-service",
